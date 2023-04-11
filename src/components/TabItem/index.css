@@ -1,0 +1,25 @@
+.languageGreetingItem {
+  list-style-type: none;
+}
+
+.active-button {
+  background-color: #db1c48;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 25px;
+  border: none;
+}
+
+.inactive-button {
+  border: 2px solid #db1c48;
+  color: #db1c48;
+  font-family: Roboto;
+  font-size: 16px;
+  background-color: #ffffff;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 25px;
+}
